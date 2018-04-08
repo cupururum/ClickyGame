@@ -1,0 +1,50 @@
+[
+    {
+        "id": "fry",
+        "src": "assets/images/fry.jpg"
+    },
+    {
+        "id": "amy",
+        "src": "assets/images/amy.jpg"
+    },
+    {
+        "id": "bender",
+        "src": "assets/images/bender.jpg"
+    },
+    {
+        "id": "hermes",
+        "src": "assets/images/hermes.jpg"
+    },
+    {
+        "id": "hypnotoad",
+        "src": "assets/images/hypnotoad.jpg"
+    },
+    {
+        "id": "leela",
+        "src": "assets/images/leela.jpg"
+    },
+    {
+        "id": "lrrr",
+        "src": "assets/images/lrrr.jpg"
+    },
+    {
+        "id": "moms",
+        "src": "assets/images/moms.jpg"
+    },
+    {
+        "id": "nibbler",
+        "src": "assets/images/nibbler.jpg"
+    },
+    {
+        "id": "rob_devil",
+        "src": "assets/images/rob_devil.jpg"
+    },
+    {
+        "id": "robot_santa",
+        "src": "assets/images/robot_santa.jpg"
+    },
+    {
+        "id": "zoidberg",
+        "src": "assets/images/zoidberg.jpg"
+    }
+]

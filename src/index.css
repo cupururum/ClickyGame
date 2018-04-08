@@ -10,6 +10,14 @@ body {
   margin-bottom: 60px; /* Margin bottom by footer height */
 }
 
+.image {
+  margin: 10px;
+}
+
+.image-container {
+  margin-bottom: 30px;
+}
+
 .jumbotron {
   margin-top: 90px;
   width: 100%;
